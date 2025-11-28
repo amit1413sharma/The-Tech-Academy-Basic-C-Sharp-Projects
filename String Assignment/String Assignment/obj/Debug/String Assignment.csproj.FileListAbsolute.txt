@@ -1,0 +1,7 @@
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.AssemblyReference.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String Assignment\String Assignment\obj\Debug\String Assignment.pdb
