@@ -1,0 +1,7 @@
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\bin\Debug\Package Express Shipping Quote Assignment.exe.config
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\bin\Debug\Package Express Shipping Quote Assignment.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\bin\Debug\Package Express Shipping Quote Assignment.pdb
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\obj\Debug\Package Express Shipping Quote Assignment.csproj.AssemblyReference.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\obj\Debug\Package Express Shipping Quote Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\obj\Debug\Package Express Shipping Quote Assignment.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Branching Assignment\Package Express Shipping Quote Assignment\obj\Debug\Package Express Shipping Quote Assignment.pdb
