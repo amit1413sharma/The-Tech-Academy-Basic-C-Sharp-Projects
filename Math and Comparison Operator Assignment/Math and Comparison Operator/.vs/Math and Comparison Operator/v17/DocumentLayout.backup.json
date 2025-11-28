@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Math and Comparison Operator Assignment\\Math and Comparison Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA814615-23B6-4C5D-8B5F-75D98DA82D9E}|Math and Comparison Operator.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\math and comparison operator assignment\\math and comparison operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA814615-23B6-4C5D-8B5F-75D98DA82D9E}|Math and Comparison Operator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Math and Comparison Operator Assignment\\Math and Comparison Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Math and Comparison Operator Assignment\\Math and Comparison Operator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:35:27.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
