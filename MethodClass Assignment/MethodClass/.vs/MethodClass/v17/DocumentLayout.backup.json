@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodClass Assignment\\MethodClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533847D1-0121-4059-AF15-5C692D2A462A}|MethodClass.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodclass assignment\\methodclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533847D1-0121-4059-AF15-5C692D2A462A}|MethodClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533847D1-0121-4059-AF15-5C692D2A462A}|MethodClass.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodclass assignment\\methodclass\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533847D1-0121-4059-AF15-5C692D2A462A}|MethodClass.csproj|solutionrelative:mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodClass Assignment\\MethodClass\\MathHelper.cs",
+              "RelativeDocumentMoniker": "MathHelper.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodClass Assignment\\MethodClass\\MathHelper.cs",
+              "RelativeToolTip": "MathHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:48:05.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodClass Assignment\\MethodClass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodClass Assignment\\MethodClass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:47:30.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
