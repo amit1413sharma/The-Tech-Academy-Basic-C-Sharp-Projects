@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjects assignment\\methodsandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjects assignment\\methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjects assignment\\methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5CEE7B-98E3-4741-BBA0-A6BE441B7A94}|MethodsandObjects.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:58:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:58:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects Assignment\\MethodsandObjects\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:57:51.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
