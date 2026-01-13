@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC55CD7-C08D-4387-822F-E0D3F773F460}|CallingMethodsAssignment.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\callingmethodsassignment\\callingmethodsassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC55CD7-C08D-4387-822F-E0D3F773F460}|CallingMethodsAssignment.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC55CD7-C08D-4387-822F-E0D3F773F460}|CallingMethodsAssignment.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\callingmethodsassignment\\callingmethodsassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC55CD7-C08D-4387-822F-E0D3F773F460}|CallingMethodsAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperations.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\MathOperations.cs",
+              "RelativeToolTip": "MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:41:44.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethodsAssignment\\CallingMethodsAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:40:37.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
