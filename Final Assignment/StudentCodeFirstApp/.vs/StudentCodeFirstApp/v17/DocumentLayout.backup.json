@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\final assignment\\studentcodefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\final assignment\\studentcodefirstapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\final assignment\\studentcodefirstapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|solutionrelative:studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|c:\\users\\jessi\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\final assignment\\studentcodefirstapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED76536-29EE-46D0-9806-3F1983BD400C}|StudentCodeFirstApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T16:05:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentContext.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\StudentContext.cs",
+              "RelativeToolTip": "StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:03:46.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:03:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jessi\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Final Assignment\\StudentCodeFirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:59:29.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

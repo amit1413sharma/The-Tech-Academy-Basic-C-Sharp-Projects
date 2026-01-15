@@ -1,0 +1,12 @@
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.exe.config
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.pdb
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.csproj.AssemblyReference.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\obj\Debug\StudentC.5D5694BF.Up2Date
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.exe
+C:\Users\jessi\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.pdb
